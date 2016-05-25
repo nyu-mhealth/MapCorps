@@ -4,6 +4,7 @@ http://learnosm.org/en/coordination/tasking-manager/
 
 ###Editing OSM  
 iD Editor: http://learnosm.org/en/beginner/id-editor/  
+JOSM Editor: https://josm.openstreetmap.de/wiki/Introduction  
 
 
 iD is good for…  
