@@ -1,7 +1,7 @@
 ###Geobadges
 http://geobadges.org/#!/enterprise  
 
-###HOTOSM
+###Humanitarian OpenStreetMap Team - HOT
 
 ###Learn OSM
 Workflow  
