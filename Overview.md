@@ -1,7 +1,6 @@
-###[Geobadges](http://geobadges.org/#!/enterprise)  
+#Sites
 
 ###[Humanitarian OpenStreetMap Team - HOT](https://hotosm.org/)  
-
 
 ###[Learn OSM](http://learnosm.org/en/)
 [Workflow](http://teachosm.org/en/workflow/workflow1) 
@@ -10,12 +9,15 @@
 - Conducting training for participants
 - Mapping in the field with Field Papers
 - Grading, validation, and assessing quality
- 
 
 ###[Teach OSM](http://teachosm.org/en/)
 [Tasking Manager](http://learnosm.org/en/coordination/tasking-manager/) 
 
 ###[Youthmappers](http://www.youthmappers.org/)
+
+###[Geobadges](http://geobadges.org/#!/enterprise) 
+
+#Tools
 
 ###Editing OSM  
 [iD Editor](http://learnosm.org/en/beginner/id-editor/)  
@@ -33,7 +35,7 @@
     - When you are on an unreliable Internet connection or offline
     - When you are using a specific tagging scheme (or custom presets)
 
-###Data Collection Tools
+###Data Collection
 [OpenMapKit](http://openmapkit.org/index.html)  
  OpenMapKit (OMK) is an extension of OpenDataKit allowing users to create professional quality mobile data collection surveys for field data collection.  
  
