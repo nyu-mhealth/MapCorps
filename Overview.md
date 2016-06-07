@@ -3,7 +3,7 @@
 ###[Humanitarian OpenStreetMap Team - HOT](https://hotosm.org/)  
 
 
-###Learn OSM
+###[Learn OSM](http://learnosm.org/en/)
 [Workflow](http://teachosm.org/en/workflow/workflow1) 
 - Choosing where to map and what to map
 - Assigning tasks to participants
