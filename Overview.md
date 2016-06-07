@@ -12,10 +12,12 @@
 - Grading, validation, and assessing quality
  
 
-###Teach OSM
+###[Teach OSM](http://teachosm.org/en/)
 [Tasking Manager](http://learnosm.org/en/coordination/tasking-manager/) 
 
-Editing OSM  
+###[Youthmappers](http://www.youthmappers.org/)
+
+###Editing OSM  
 [iD Editor](http://learnosm.org/en/beginner/id-editor/)  
 [JOSM Editor](https://josm.openstreetmap.de/wiki/Introduction)  
 
