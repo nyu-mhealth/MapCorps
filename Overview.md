@@ -1,6 +1,6 @@
 ###[Geobadges](http://geobadges.org/#!/enterprise)  
 
-###Humanitarian OpenStreetMap Team - HOT  
+###[Humanitarian OpenStreetMap Team - HOT](https://hotosm.org/)  
 
 
 ###Learn OSM
@@ -16,8 +16,8 @@
 [Tasking Manager](http://learnosm.org/en/coordination/tasking-manager/) 
 
 Editing OSM  
-iD Editor: http://learnosm.org/en/beginner/id-editor/  
-JOSM Editor: https://josm.openstreetmap.de/wiki/Introduction  
+[iD Editor](http://learnosm.org/en/beginner/id-editor/)  
+[JOSM Editor](https://josm.openstreetmap.de/wiki/Introduction)  
 
     iD is good for…  
     - When you are doing simple edits
