@@ -1,11 +1,17 @@
 ###Geobadges
 http://geobadges.org/#!/enterprise  
 
-###Humanitarian OpenStreetMap Team - HOT
+###Humanitarian OpenStreetMap Team - HOT  
+
 
 ###Learn OSM
-Workflow  
-http://teachosm.org/en/workflow/workflow1  
+Workflow http://teachosm.org/en/workflow/workflow1 
+- Choosing where to map and what to map
+- Assigning tasks to participants
+- Conducting training for participants
+- Mapping in the field with Field Papers
+- Grading, validation, and assessing quality
+ 
 
 ###Teach OSM
 Tasking Manager 
