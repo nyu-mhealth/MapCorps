@@ -1,11 +1,10 @@
-###Geobadges
-http://geobadges.org/#!/enterprise  
+###[Geobadges](http://geobadges.org/#!/enterprise)  
 
 ###Humanitarian OpenStreetMap Team - HOT  
 
 
 ###Learn OSM
-Workflow http://teachosm.org/en/workflow/workflow1 
+[Workflow](http://teachosm.org/en/workflow/workflow1) 
 - Choosing where to map and what to map
 - Assigning tasks to participants
 - Conducting training for participants
@@ -14,8 +13,7 @@ Workflow http://teachosm.org/en/workflow/workflow1
  
 
 ###Teach OSM
-Tasking Manager 
-http://learnosm.org/en/coordination/tasking-manager/ 
+[Tasking Manager](http://learnosm.org/en/coordination/tasking-manager/) 
 
 Editing OSM  
 iD Editor: http://learnosm.org/en/beginner/id-editor/  
