@@ -31,5 +31,14 @@ Editing OSM
     - When you are on an unreliable Internet connection or offline
     - When you are using a specific tagging scheme (or custom presets)
 
-
+###Data Collection Tools
+[OpenMapKit](http://openmapkit.org/index.html)  
+ OpenMapKit (OMK) is an extension of OpenDataKit allowing users to create professional quality mobile data collection surveys for field data collection.  
+ 
+ [OpenDataKit](https://opendatakit.org/)  
+ Open Data Kit (ODK) is a free and open-source set of tools which help organizations author, field, and manage mobile data collection solutions.  
+ 
+ [Mapillary](https://www.mapillary.com/map)
+ 
+ 
 
