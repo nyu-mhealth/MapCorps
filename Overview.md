@@ -1,6 +1,7 @@
 #Sites
 
 ###[Humanitarian OpenStreetMap Team - HOT](https://hotosm.org/)  
+The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source and open data sharing for humanitarian response and economic development.
 
 ###[Learn OSM](http://learnosm.org/en/)
 [Workflow](http://teachosm.org/en/workflow/workflow1) 
