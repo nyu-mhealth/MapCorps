@@ -1,13 +1,12 @@
-##Geobadges
+###Geobadges
 
+###HOTOSM
 
-##HOTOSM
-
-##Learn OSM
+###Learn OSM
 
 Workflow  
 http://teachosm.org/en/workflow/workflow1  
 
-##Teach OSM
+###Teach OSM
 
 
