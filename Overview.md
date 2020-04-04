@@ -18,7 +18,7 @@
 
 ### [Youthmappers](http://www.youthmappers.org/)
      Twitter: @youthmappersnyu
-     Facebook group: [YouthmappersNYU on Facebook](https://www.facebook.com/groups/nyuyouthmappers/)
+     Facebook group: [YouthmappersNYU](https://www.facebook.com/groups/nyuyouthmappers/)
 
 ### [Geobadges](http://geobadges.org/#!/enterprise) 
 
@@ -47,7 +47,8 @@
  
  [OpenMapKit](http://openmapkit.org/index.html)  
  >OpenMapKit (OMK) is an extension of OpenDataKit allowing users to create professional quality mobile data collection surveys for field data collection. 
- 
+
+* * *
 ### [Mapillary](https://www.mapillary.com/map): Street-level Imagery Capture
  
 ### [Intro](https://www.youtube.com/watch?v=sk6ubBz4p1Q)
