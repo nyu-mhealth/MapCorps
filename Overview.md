@@ -45,8 +45,9 @@ The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source 
  OpenMapKit (OMK) is an extension of OpenDataKit allowing users to create professional quality mobile data collection surveys for field data collection. 
  
  [Mapillary](https://www.mapillary.com/map): Street-level Imagery Capture
- [Intro](https://www.youtube.com/watch?v=sk6ubBz4p1Q)
- [MoreInfo](https://www.youtube.com/watch?v=TC8-Baa5zW4)
+ 
+# [Intro](https://www.youtube.com/watch?v=sk6ubBz4p1Q)
+# [MoreInfo](https://www.youtube.com/watch?v=TC8-Baa5zW4)
 
 ###Imagery Capture with regular Mapillary App:
  - iPhone app instructions
