@@ -37,11 +37,12 @@ The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source 
     - When you are using a specific tagging scheme (or custom presets)
 
 ###Data Collection
-[OpenMapKit](http://openmapkit.org/index.html)  
- OpenMapKit (OMK) is an extension of OpenDataKit allowing users to create professional quality mobile data collection surveys for field data collection.  
  
  [OpenDataKit](https://opendatakit.org/)  
- Open Data Kit (ODK) is a free and open-source set of tools which help organizations author, field, and manage mobile data collection solutions.  
+ Open Data Kit (ODK) is a free and open-source set of tools which help organizations author, field, and manage mobile data collection solutions. 
+ 
+ [OpenMapKit](http://openmapkit.org/index.html)  
+ OpenMapKit (OMK) is an extension of OpenDataKit allowing users to create professional quality mobile data collection surveys for field data collection. 
  
 ###[Mapillary](https://www.mapillary.com/map)
  
