@@ -1,22 +1,23 @@
 # OpenStreetMap Resources
 
 ### [Learn OSM](http://learnosm.org/en/)
-[Workflow](http://teachosm.org/en/workflow/workflow1) 
-- Choosing where to map and what to map
-- Assigning tasks to participants
-- Conducting training for participants
-- Mapping in the field with Field Papers
-- Grading, validation, and assessing quality
 
 ### [Teach OSM](http://teachosm.org/en/)
 [Tasking Manager](http://learnosm.org/en/coordination/tasking-manager/) 
+[Workflow](http://teachosm.org/en/workflow/workflow1) 
+
+    - Choosing where to map and what to map
+    - Assigning tasks to participants
+    - Conducting training for participants
+    - Mapping in the field with Field Papers
+    - Grading, validation, and assessing quality
 
 ### [Humanitarian OpenStreetMap Team - HOT](https://hotosm.org/)  
-The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source and open data sharing for humanitarian response and economic development.
+>The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source and open data sharing for humanitarian response and economic development.
 
 ### [Youthmappers](http://www.youthmappers.org/)
-    * Twitter: @youthmappersnyu
-    * Facebook group: [YouthmappersNYU on Facebook](https://www.facebook.com/groups/nyuyouthmappers/)
+     Twitter: @youthmappersnyu
+     Facebook group: [YouthmappersNYU on Facebook](https://www.facebook.com/groups/nyuyouthmappers/)
 
 ### [Geobadges](http://geobadges.org/#!/enterprise) 
 
