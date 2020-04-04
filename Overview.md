@@ -27,7 +27,7 @@
 ### [overpass-turbo](https://overpass-turbo.eu/): OSM query engine
 
 * * *
-### Editing OSM  
+## Editing OSM  
 [iD Editor](http://learnosm.org/en/beginner/id-editor/)  
 [JOSM Editor](https://josm.openstreetmap.de/wiki/Introduction)  
 
