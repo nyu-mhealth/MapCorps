@@ -13,8 +13,8 @@
     - Grading, validation, and assessing quality
 
 ### [Humanitarian OpenStreetMap Team - HOT](https://hotosm.org/)  
-     >The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source and open data sharing 
-     >for humanitarian response and economic development.
+     The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source and open data sharing 
+     for humanitarian response and economic development.
 
 ### [Youthmappers](http://www.youthmappers.org/)
      Twitter: @youthmappersnyu
