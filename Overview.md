@@ -1,9 +1,9 @@
 # OpenStreetMap Resources
 
 ### [Learn OSM](http://learnosm.org/en/)
+[Tasking Manager](http://learnosm.org/en/coordination/tasking-manager/) 
 
 ### [Teach OSM](http://teachosm.org/en/)
-[Tasking Manager](http://learnosm.org/en/coordination/tasking-manager/) 
 [Workflow](http://teachosm.org/en/workflow/workflow1) 
 
     - Choosing where to map and what to map
