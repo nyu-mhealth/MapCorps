@@ -18,7 +18,7 @@
 
 ### [Youthmappers](http://www.youthmappers.org/)
      Twitter: @youthmappersnyu
-     Facebook group: [YouthmappersNYU](https://www.facebook.com/groups/nyuyouthmappers/)
+     [NYUYouthmappers](https://www.facebook.com/groups/nyuyouthmappers/): NYU Youthmappers Facebook Group
 
 ### [Geobadges](http://geobadges.org/#!/enterprise) 
 
