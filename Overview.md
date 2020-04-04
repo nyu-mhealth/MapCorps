@@ -1,10 +1,10 @@
 # OpenStreetMap Resources
 
 ### [Learn OSM](http://learnosm.org/en/)
-[Tasking Manager](http://learnosm.org/en/coordination/tasking-manager/) 
+[OSM Tasking Manager Overview](http://learnosm.org/en/coordination/tasking-manager/) 
 
 ### [Teach OSM](http://teachosm.org/en/)
-[Workflow](http://teachosm.org/en/workflow/workflow1) 
+[Teach OSM Workflow Overview](http://teachosm.org/en/workflow/workflow1) 
 
     - Choosing where to map and what to map
     - Assigning tasks to participants
@@ -21,6 +21,7 @@
 * Twitter: @youthmappersnyu
 
 ### [Geobadges](http://geobadges.org/#!/enterprise) 
+      Traning resource from that American Association of Geographers
 
 * * *
 ### Editing OSM  
