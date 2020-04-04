@@ -16,7 +16,7 @@ The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source 
 
 ### [Youthmappers](http://www.youthmappers.org/)
 >Twitter: @youthmappersnyu
->[Facebook group:](https://www.facebook.com/groups/nyuyouthmappers/)
+>Facebook group: [Facebook](https://www.facebook.com/groups/nyuyouthmappers/)
 
 ### [Geobadges](http://geobadges.org/#!/enterprise) 
 
