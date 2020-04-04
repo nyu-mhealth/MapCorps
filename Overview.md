@@ -45,5 +45,15 @@ The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source 
  
  [Mapillary](https://www.mapillary.com/map)
  
- 
+ Mapillary Introduction 
+[Explaining Mapillary]  (https://www.youtube.com/watch?v=sk6ubBz4p1Q)
+Mapillary : https://www.youtube.com/watch?v=TC8-Baa5zW4
+
+Imagery Capture with regular Mapillary App:
+Mapillary for IOS: https://help.mapillary.com/hc/en-us/articles/115001636009-Mapillary-for-iOS
+Mapillary for Android: https://help.mapillary.com/hc/en-us/articles/115001661965-Mapillary-for-Android
+
+Map editing:
+Mapping Hospitals Tutorial: https://www.youtube.com/watch?v=FS1LUGv5z5k
+Mapping Pharmacies & Supermarkets - Mapillary Tutorials: https://www.youtube.com/watch?v=I9XSkpZrW5s
 
