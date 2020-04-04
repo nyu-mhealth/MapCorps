@@ -15,6 +15,8 @@
 The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source and open data sharing for humanitarian response and economic development.
 
 ### [Youthmappers](http://www.youthmappers.org/)
+>Twitter: @youthmappersnyu
+>[Facebook group:](https://www.facebook.com/groups/nyuyouthmappers/)
 
 ### [Geobadges](http://geobadges.org/#!/enterprise) 
 
