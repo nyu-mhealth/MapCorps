@@ -13,7 +13,7 @@
     - Grading, validation, and assessing quality
 
 ### [Humanitarian OpenStreetMap Team - HOT](https://hotosm.org/)  
->The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source and open data sharing for humanitarian response and economic development.
+     The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source and open data sharing for humanitarian        response and economic development.
 
 ### [Youthmappers](http://www.youthmappers.org/)
      Twitter: @youthmappersnyu
@@ -21,8 +21,7 @@
 
 ### [Geobadges](http://geobadges.org/#!/enterprise) 
 
-# Tools
-
+* * *
 ### Editing OSM  
 [iD Editor](http://learnosm.org/en/beginner/id-editor/)  
 [JOSM Editor](https://josm.openstreetmap.de/wiki/Introduction)  
@@ -39,6 +38,7 @@
     - When you are on an unreliable Internet connection or offline
     - When you are using a specific tagging scheme (or custom presets)
 
+* * *
 ### Data Collection
  
  [OpenDataKit](https://opendatakit.org/)  
