@@ -17,8 +17,8 @@
      for humanitarian response and economic development.
 
 ### [Youthmappers](http://www.youthmappers.org/)
-     Twitter: @youthmappersnyu
-     [NYUYouthmappers](https://www.facebook.com/groups/nyuyouthmappers/): NYU Youthmappers Facebook Group
+* Twitter: @youthmappersnyu
+* [NYUYouthmappers](https://www.facebook.com/groups/nyuyouthmappers/): NYU Youthmappers Facebook Group
 
 ### [Geobadges](http://geobadges.org/#!/enterprise) 
 
