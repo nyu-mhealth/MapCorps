@@ -1,8 +1,5 @@
 # OpenStreetMap Resources
 
-### [Humanitarian OpenStreetMap Team - HOT](https://hotosm.org/)  
-The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source and open data sharing for humanitarian response and economic development.
-
 ### [Learn OSM](http://learnosm.org/en/)
 [Workflow](http://teachosm.org/en/workflow/workflow1) 
 - Choosing where to map and what to map
@@ -13,6 +10,9 @@ The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source 
 
 ### [Teach OSM](http://teachosm.org/en/)
 [Tasking Manager](http://learnosm.org/en/coordination/tasking-manager/) 
+
+### [Humanitarian OpenStreetMap Team - HOT](https://hotosm.org/)  
+The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source and open data sharing for humanitarian response and economic development.
 
 ### [Youthmappers](http://www.youthmappers.org/)
 
@@ -57,7 +57,9 @@ The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source 
 
 ### Map editing:
 
- #### [Mapping Hospitals Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k
- #### [Mapping Pharmacies & Supermarkets - Mapillary Tutorials](https://www.youtube.com/watch?v=I9XSkpZrW5s)
+ - Mapping Hospitals
+ [Mapping Hospitals Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k
+ - Mapping Pharmacies & Supermarkets
+ [Mapping Pharmacies & Supermarkets - Mapillary Tutorials](https://www.youtube.com/watch?v=I9XSkpZrW5s)
 
 
