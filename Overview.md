@@ -1,9 +1,9 @@
-#Sites
+# Sites
 
-###[Humanitarian OpenStreetMap Team - HOT](https://hotosm.org/)  
+### [Humanitarian OpenStreetMap Team - HOT](https://hotosm.org/)  
 The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source and open data sharing for humanitarian response and economic development.
 
-###[Learn OSM](http://learnosm.org/en/)
+### [Learn OSM](http://learnosm.org/en/)
 [Workflow](http://teachosm.org/en/workflow/workflow1) 
 - Choosing where to map and what to map
 - Assigning tasks to participants
@@ -11,16 +11,16 @@ The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source 
 - Mapping in the field with Field Papers
 - Grading, validation, and assessing quality
 
-###[Teach OSM](http://teachosm.org/en/)
+### [Teach OSM](http://teachosm.org/en/)
 [Tasking Manager](http://learnosm.org/en/coordination/tasking-manager/) 
 
-###[Youthmappers](http://www.youthmappers.org/)
+### [Youthmappers](http://www.youthmappers.org/)
 
-###[Geobadges](http://geobadges.org/#!/enterprise) 
+### [Geobadges](http://geobadges.org/#!/enterprise) 
 
-#Tools
+# Tools
 
-###Editing OSM  
+### Editing OSM  
 [iD Editor](http://learnosm.org/en/beginner/id-editor/)  
 [JOSM Editor](https://josm.openstreetmap.de/wiki/Introduction)  
 
@@ -36,7 +36,7 @@ The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source 
     - When you are on an unreliable Internet connection or offline
     - When you are using a specific tagging scheme (or custom presets)
 
-###Data Collection
+### Data Collection
  
  [OpenDataKit](https://opendatakit.org/)  
  Open Data Kit (ODK) is a free and open-source set of tools which help organizations author, field, and manage mobile data collection solutions. 
@@ -49,13 +49,13 @@ The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source 
 ### [Intro](https://www.youtube.com/watch?v=sk6ubBz4p1Q)
 ### [MoreInfo](https://www.youtube.com/watch?v=TC8-Baa5zW4)
 
-###Imagery Capture with regular Mapillary App:
+### Imagery Capture with regular Mapillary App:
  - iPhone app instructions
  [Mapillary for IOS](https://help.mapillary.com/hc/en-us/articles/115001636009-Mapillary-for-iOS)
  - Android app instructions
  [Mapillary for Android](https://help.mapillary.com/hc/en-us/articles/115001661965-Mapillary-for-Android)
 
-###Map editing:
+### Map editing:
 
  [Mapping Hospitals Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k
  [Mapping Pharmacies & Supermarkets - Mapillary Tutorials](https://www.youtube.com/watch?v=I9XSkpZrW5s)
