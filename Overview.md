@@ -22,10 +22,9 @@
 * [NYUYouthmappers](https://www.facebook.com/groups/nyuyouthmappers/): NYU Youthmappers Facebook Group
 * Twitter: @youthmappersnyu
 
-### [Geobadges](http://geobadges.org/#!/enterprise) 
-      Traning resource from the American Geographical Society
-### [MIT: DUSP/VIS](http://duspviz.mit.edu/)
-### [overpass-turbo](https://overpass-turbo.eu/)
+### [Geobadges](http://geobadges.org/#!/enterprise): Training resource from the American Geographical Society
+### [MIT: DUSP/VIS](http://duspviz.mit.edu/): Training resources from MIT
+### [overpass-turbo](https://overpass-turbo.eu/): OSM query engine
 
 * * *
 ### Editing OSM  
