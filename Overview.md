@@ -15,8 +15,8 @@
 The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source and open data sharing for humanitarian response and economic development.
 
 ### [Youthmappers](http://www.youthmappers.org/)
->* Twitter: @youthmappersnyu
->* Facebook group: [YouthmappersNYU on Facebook](https://www.facebook.com/groups/nyuyouthmappers/)
+    * Twitter: @youthmappersnyu
+    * Facebook group: [YouthmappersNYU on Facebook](https://www.facebook.com/groups/nyuyouthmappers/)
 
 ### [Geobadges](http://geobadges.org/#!/enterprise) 
 
@@ -41,10 +41,10 @@ The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source 
 ### Data Collection
  
  [OpenDataKit](https://opendatakit.org/)  
- Open Data Kit (ODK) is a free and open-source set of tools which help organizations author, field, and manage mobile data collection solutions. 
+ >Open Data Kit (ODK) is a free and open-source set of tools which help organizations author, field, and manage mobile data collection solutions. 
  
  [OpenMapKit](http://openmapkit.org/index.html)  
- OpenMapKit (OMK) is an extension of OpenDataKit allowing users to create professional quality mobile data collection surveys for field data collection. 
+ >OpenMapKit (OMK) is an extension of OpenDataKit allowing users to create professional quality mobile data collection surveys for field data collection. 
  
 ## [Mapillary](https://www.mapillary.com/map): Street-level Imagery Capture
  
