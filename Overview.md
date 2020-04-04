@@ -58,6 +58,6 @@ The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source 
 ### Map editing:
 
  - Mapping Hospitals
- [Mapping Hospitals Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k
+ [Mapping Hospitals Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k)
  - Mapping Pharmacies & Supermarkets
  [Mapping Pharmacies & Supermarkets](https://www.youtube.com/watch?v=I9XSkpZrW5s)
