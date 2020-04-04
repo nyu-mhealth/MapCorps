@@ -21,7 +21,11 @@
 * Twitter: @youthmappersnyu
 
 ### [Geobadges](http://geobadges.org/#!/enterprise) 
-      Traning resource from that American Association of Geographers
+      Traning resource from the American Geographical Society
+
+### Missing Maps
+### DUSP/VIS
+### overpass-turbo.edu
 
 * * *
 ### Editing OSM  
