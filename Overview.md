@@ -30,6 +30,7 @@
 ## Editing OSM  
 [iD Editor](http://learnosm.org/en/beginner/id-editor/)  
 [JOSM Editor](https://josm.openstreetmap.de/wiki/Introduction)  
+[JOSM Workshop Slides](https://docs.google.com/presentation/d/1KPgQ1buFx2rS7HnvTa7OVZ-3WxBP6nsf7EcA9CUq70M/edit?usp=sharing)
 
     iD is good for…  
     - When you are doing simple edits
