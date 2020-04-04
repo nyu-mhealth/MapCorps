@@ -40,7 +40,7 @@
     - When you are using a specific tagging scheme (or custom presets)
 
 * * *
-### Data Collection
+## Data Collection
  
  [OpenDataKit](https://opendatakit.org/)  
  >Open Data Kit (ODK) is a free and open-source set of tools which help organizations author, field, and manage mobile data collection solutions. 
@@ -48,7 +48,7 @@
  [OpenMapKit](http://openmapkit.org/index.html)  
  >OpenMapKit (OMK) is an extension of OpenDataKit allowing users to create professional quality mobile data collection surveys for field data collection. 
  
-## [Mapillary](https://www.mapillary.com/map): Street-level Imagery Capture
+### [Mapillary](https://www.mapillary.com/map): Street-level Imagery Capture
  
 ### [Intro](https://www.youtube.com/watch?v=sk6ubBz4p1Q)
 ### [MoreInfo](https://www.youtube.com/watch?v=TC8-Baa5zW4)
