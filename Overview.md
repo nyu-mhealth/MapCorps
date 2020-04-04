@@ -1,4 +1,4 @@
-# Sites
+# OpenStreetMap Resources
 
 ### [Humanitarian OpenStreetMap Team - HOT](https://hotosm.org/)  
 The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source and open data sharing for humanitarian response and economic development.
@@ -44,7 +44,7 @@ The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source 
  [OpenMapKit](http://openmapkit.org/index.html)  
  OpenMapKit (OMK) is an extension of OpenDataKit allowing users to create professional quality mobile data collection surveys for field data collection. 
  
-# [Mapillary](https://www.mapillary.com/map): Street-level Imagery Capture
+## [Mapillary](https://www.mapillary.com/map): Street-level Imagery Capture
  
 ### [Intro](https://www.youtube.com/watch?v=sk6ubBz4p1Q)
 ### [MoreInfo](https://www.youtube.com/watch?v=TC8-Baa5zW4)
@@ -57,7 +57,7 @@ The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source 
 
 ### Map editing:
 
- [Mapping Hospitals Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k
- [Mapping Pharmacies & Supermarkets - Mapillary Tutorials](https://www.youtube.com/watch?v=I9XSkpZrW5s)
+ #### [Mapping Hospitals Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k
+ #### [Mapping Pharmacies & Supermarkets - Mapillary Tutorials](https://www.youtube.com/watch?v=I9XSkpZrW5s)
 
 
