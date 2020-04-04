@@ -16,16 +16,16 @@
      The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source and open data sharing 
      for humanitarian response and economic development.
 
+### [Missing Maps](https://www.missingmaps.org/)
+
 ### [Youthmappers](http://www.youthmappers.org/)
 * [NYUYouthmappers](https://www.facebook.com/groups/nyuyouthmappers/): NYU Youthmappers Facebook Group
 * Twitter: @youthmappersnyu
 
 ### [Geobadges](http://geobadges.org/#!/enterprise) 
       Traning resource from the American Geographical Society
-
-### Missing Maps
-### DUSP/VIS
-### overpass-turbo.edu
+### [MIT: DUSP/VIS](http://duspviz.mit.edu/)
+### [overpass-turbo](https://overpass-turbo.eu/)
 
 * * *
 ### Editing OSM  
