@@ -60,6 +60,4 @@ The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source 
  - Mapping Hospitals
  [Mapping Hospitals Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k
  - Mapping Pharmacies & Supermarkets
- [Mapping Pharmacies & Supermarkets - Mapillary Tutorials](https://www.youtube.com/watch?v=I9XSkpZrW5s)
-
-
+ [Mapping Pharmacies & Supermarkets](https://www.youtube.com/watch?v=I9XSkpZrW5s)
