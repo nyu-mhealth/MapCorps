@@ -43,8 +43,19 @@ The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source 
  [OpenDataKit](https://opendatakit.org/)  
  Open Data Kit (ODK) is a free and open-source set of tools which help organizations author, field, and manage mobile data collection solutions.  
  
- [Mapillary](https://www.mapillary.com/map)
+###[Mapillary](https://www.mapillary.com/map)
  
  [Explaining Mapillary](https://www.youtube.com/watch?v=sk6ubBz4p1Q)
+ [Mapillary](https://www.youtube.com/watch?v=TC8-Baa5zW4)
+
+###Imagery Capture with regular Mapillary App:
+
+ [Mapillary for IOS](https://help.mapillary.com/hc/en-us/articles/115001636009-Mapillary-for-iOS)
+ [Mapillary for Android](https://help.mapillary.com/hc/en-us/articles/115001661965-Mapillary-for-Android)
+
+###Map editing:
+
+ [Mapping Hospitals Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k
+ [Mapping Pharmacies & Supermarkets - Mapillary Tutorials](https://www.youtube.com/watch?v=I9XSkpZrW5s)
 
 
