@@ -56,8 +56,8 @@
 * * *
 ### [Mapillary](https://www.mapillary.com/map): Street-level Imagery Capture
  
-### [Intro](https://www.youtube.com/watch?v=sk6ubBz4p1Q)
-### [MoreInfo](https://www.youtube.com/watch?v=TC8-Baa5zW4)
+### [YouTube: Intro](https://www.youtube.com/watch?v=sk6ubBz4p1Q)
+### [YouTube: Scalable Image Collection](https://www.youtube.com/watch?v=TC8-Baa5zW4)
 
 ### Imagery Capture with regular Mapillary App:
  - iPhone app instructions
