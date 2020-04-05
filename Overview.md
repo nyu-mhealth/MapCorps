@@ -23,7 +23,7 @@
 * Twitter: @youthmappersnyu
 
 ### [Geobadges](http://geobadges.org/#!/enterprise): Training resource from the American Geographical Society
-### [MIT: DUSP/VIS](http://duspviz.mit.edu/): Training resources from MIT
+### [MIT: DUSP/VIZ](http://duspviz.mit.edu/): Training resources from MIT
 ### [overpass-turbo](https://overpass-turbo.eu/): OSM query engine
 
 * * *
