@@ -2,9 +2,7 @@
 
 ### [Learn OSM](http://learnosm.org/en/)
 [OSM Tasking Manager Overview](http://learnosm.org/en/coordination/tasking-manager/) 
-
-### [Teach OSM](http://teachosm.org/en/)
-[Teach OSM Workflow Overview](http://teachosm.org/en/workflow/workflow1) 
+### [Teach OSM](https://tasks.teachosm.org/)
 
     - Choosing where to map and what to map
     - Assigning tasks to participants
