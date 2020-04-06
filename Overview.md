@@ -1,6 +1,15 @@
 # OpenStreetMap Resources
 
-### [Learn OSM](http://learnosm.org/en/)
+### OpenStreetMap editing:
+
+ - [OSM Wiki](https://wiki.openstreetmap.org/wiki/Beginners%27_guide): Beginner's Guide
+ - [OSM Wiki: Features and POI](https://wiki.openstreetmap.org/wiki/Map_Features): Map Features Reference
+ - [OSM Wiki: Healthcare Tags](https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dhospital): Tag:amenity:hospital (and others)
+ 
+ - [YouTube: Mapping Hospitals in OSM Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k)
+ - [YouTube: Mapping Pharmacies & Supermarkets in OSM Tutorial](https://www.youtube.com/watch?v=I9XSkpZrW5s)
+ 
+ ### [Learn OSM](http://learnosm.org/en/)
 [OSM Tasking Manager Overview](http://learnosm.org/en/coordination/tasking-manager/) 
 
 ### [Teach OSM](http://teachosm.org/en/)
@@ -69,14 +78,3 @@
 - NYUmHealth Mapillary Protocol
  [NYUmHealth Mapillary Google Doc](https://docs.google.com/document/d/1kGIL91-BeTZuT1jHAUPJe1PFjcSpD_L2P2ZoTlPeonk/edit?usp=sharing)
 
-### Map editing:
-
- - [OSM Wiki](https://wiki.openstreetmap.org/wiki/Beginners%27_guide): Beginner's Guide
- - [OSM Wiki: Features and POI](https://wiki.openstreetmap.org/wiki/Map_Features): Map Features Reference
- - [OSM Wiki: Healthcare Tags](https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dhospital): Tag:amenity:hospital (and others)
- 
- - [YouTube: Mapping Hospitals in OSM Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k)
- - [YouTube: Mapping Pharmacies & Supermarkets in OSM Tutorial](https://www.youtube.com/watch?v=I9XSkpZrW5s)
- 
-
- 
