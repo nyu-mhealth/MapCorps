@@ -33,7 +33,7 @@
 [overpass-turbo](https://overpass-turbo.eu/)
 
 * * *
-## OpenStreetMap editing:
+## OpenStreetMap Editing
 
    - OSM Beginner's Guide: 
     [OSM Wiki](https://wiki.openstreetmap.org/wiki/Beginners%27_guide)
@@ -46,7 +46,7 @@
    - [YouTube: Mapping Pharmacies & Supermarkets in OSM Tutorial](https://www.youtube.com/watch?v=I9XSkpZrW5s)
  
 * * *
-### You can use either the iD or JSOM Editor  
+### Pick your poison: You can choose either the iD or JSOM Editor  
 [iD Editor](http://learnosm.org/en/beginner/id-editor/)  
 
     iD is good for…  
