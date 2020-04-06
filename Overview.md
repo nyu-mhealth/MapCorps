@@ -39,11 +39,11 @@
     [OSM Wiki](https://wiki.openstreetmap.org/wiki/Beginners%27_guide)
    - OSM Key Definitions for Annotating Maps with Tags: 
     [OSM Wiki: Features and POI](https://wiki.openstreetmap.org/wiki/Map_Features)
-   - OSM Tags for Healthcare Centers:  
+   - OSM Tags for Healthcare Centers:
     [Tag:amenity:hospital (and others)](https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dhospital) 
  
-   - [YouTube: Mapping Hospitals in OSM Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k)
-   - [YouTube: Mapping Pharmacies & Supermarkets in OSM Tutorial](https://www.youtube.com/watch?v=I9XSkpZrW5s)
+    - [YouTube: Mapping Hospitals in OSM Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k)
+    - [YouTube: Mapping Pharmacies & Supermarkets in OSM Tutorial](https://www.youtube.com/watch?v=I9XSkpZrW5s)
    
 ### You can use either the iD or JSOM Editor  
 [iD Editor](http://learnosm.org/en/beginner/id-editor/)  
