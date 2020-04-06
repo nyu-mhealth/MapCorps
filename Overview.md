@@ -87,8 +87,9 @@
  [Mapillary for IOS](https://help.mapillary.com/hc/en-us/articles/115001636009-Mapillary-for-iOS)
  - Android app instructions:
  [Mapillary for Android](https://help.mapillary.com/hc/en-us/articles/115001661965-Mapillary-for-Android)
-- NYUmHealth Mapillary Project Page: 
- [NYUmHealth Mapillary Google Doc](https://www.mapillary.com/dashboard/org/nyumhealth/profile)
+- NYUmHealth Mapillary Organization Page: 
+
+ [NYUmHealth Mapillary Image Capture Project](https://www.mapillary.com/dashboard/org/nyumhealth/profile)
 - NYUmHealth Mapillary Protocol: 
  [NYUmHealth Mapillary Google Doc](https://docs.google.com/document/d/1kGIL91-BeTZuT1jHAUPJe1PFjcSpD_L2P2ZoTlPeonk/edit?usp=sharing)
 - NYU NSF COVID-19 RAPID PAUSE Project Page: 
