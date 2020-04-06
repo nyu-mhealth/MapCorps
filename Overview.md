@@ -31,11 +31,15 @@
 * [NYUYouthmappers](https://www.facebook.com/groups/nyuyouthmappers/): NYU Youthmappers Facebook Group
 * Twitter: @youthmappersnyu
 
-### [Geobadges](http://geobadges.org/#!/enterprise): Training resource from the American Geographical Society
-### [MIT: DUSP/VIZ](http://duspviz.mit.edu/): Training resources from MIT
-### [Harvard GIS](http://maps.cga.harvard.edu/qgis/): Training resources from Harvard
+- Training resource from the American Geographical Society
+[Geobadges](http://geobadges.org/#!/enterprise)
+- Training resources from MIT
+[MIT: DUSP/VIZ](http://duspviz.mit.edu/): 
+- Training resources from Harvard
+[Harvard GIS](http://maps.cga.harvard.edu/qgis/)
+- OSM query engine
+[overpass-turbo](https://overpass-turbo.eu/)
 ### [Spatial Thoughts](https://spatialthoughts.com/resources/)
-### [overpass-turbo](https://overpass-turbo.eu/): OSM query engine
 
 * * *
 ## Editing OSM  
