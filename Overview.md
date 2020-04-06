@@ -2,12 +2,12 @@
 
 ### OpenStreetMap editing:
 
- - [OSM Wiki](https://wiki.openstreetmap.org/wiki/Beginners%27_guide): Beginner's Guide
- - [OSM Wiki: Features and POI](https://wiki.openstreetmap.org/wiki/Map_Features): Map Features Reference
- - [OSM Wiki: Healthcare Tags](https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dhospital): Tag:amenity:hospital (and others)
+    - [OSM Wiki](https://wiki.openstreetmap.org/wiki/Beginners%27_guide): Beginner's Guide
+    - [OSM Wiki: Features and POI](https://wiki.openstreetmap.org/wiki/Map_Features): Map Features Reference
+    - [OSM Wiki: Healthcare Tags](https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dhospital): Tag:amenity:hospital (and others)
  
- - [YouTube: Mapping Hospitals in OSM Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k)
- - [YouTube: Mapping Pharmacies & Supermarkets in OSM Tutorial](https://www.youtube.com/watch?v=I9XSkpZrW5s)
+    - [YouTube: Mapping Hospitals in OSM Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k)
+    - [YouTube: Mapping Pharmacies & Supermarkets in OSM Tutorial](https://www.youtube.com/watch?v=I9XSkpZrW5s)
  
  ### [Learn OSM](http://learnosm.org/en/)
 [OSM Tasking Manager Overview](http://learnosm.org/en/coordination/tasking-manager/) 
