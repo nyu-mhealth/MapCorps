@@ -2,15 +2,15 @@
 
 ### OpenStreetMap editing:
 
-    - OSM Beginner's Guide: 
+   - OSM Beginner's Guide: 
     [OSM Wiki](https://wiki.openstreetmap.org/wiki/Beginners%27_guide)
-    - OSM Key Definitions for Annotating Maps with Tags: 
+   - OSM Key Definitions for Annotating Maps with Tags: 
     [OSM Wiki: Features and POI](https://wiki.openstreetmap.org/wiki/Map_Features)
-    - OSM Tags for Healthcare Centers:  
+   - OSM Tags for Healthcare Centers:  
     [OSM Wiki: Tag:amenity:hospital (and others)](https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dhospital): 
  
-    - [YouTube: Mapping Hospitals in OSM Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k)
-    - [YouTube: Mapping Pharmacies & Supermarkets in OSM Tutorial](https://www.youtube.com/watch?v=I9XSkpZrW5s)
+   - [YouTube: Mapping Hospitals in OSM Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k)
+   - [YouTube: Mapping Pharmacies & Supermarkets in OSM Tutorial](https://www.youtube.com/watch?v=I9XSkpZrW5s)
  
  ### [Learn OSM](http://learnosm.org/en/)
 [OSM Tasking Manager Overview](http://learnosm.org/en/coordination/tasking-manager/) 
