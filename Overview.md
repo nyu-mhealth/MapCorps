@@ -21,6 +21,7 @@
 * [NYUYouthmappers](https://www.facebook.com/groups/nyuyouthmappers/): NYU Youthmappers Facebook Group
 * Twitter: @youthmappersnyu
 
+* * *
 ### [Spatial Thoughts](https://spatialthoughts.com/resources/) and other GIS resources
 - Training resource from the American Geographical Society: 
 [Earn Geobadges!](http://geobadges.org/#!/enterprise)
@@ -43,7 +44,8 @@
  
     - [YouTube: Mapping Hospitals in OSM Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k)
     - [YouTube: Mapping Pharmacies & Supermarkets in OSM Tutorial](https://www.youtube.com/watch?v=I9XSkpZrW5s)
-   
+ 
+* * *
 ### You can use either the iD or JSOM Editor  
 [iD Editor](http://learnosm.org/en/beginner/id-editor/)  
 
