@@ -46,7 +46,7 @@
    - [YouTube: Mapping Pharmacies & Supermarkets in OSM Tutorial](https://www.youtube.com/watch?v=I9XSkpZrW5s)
  
 * * *
-### Pick your poison: You can edit OSM with either the iD or JSOM Editor  
+### Pick your poison: You must choose either the iD or JSOM Editor  
 [iD Editor](http://learnosm.org/en/beginner/id-editor/)  
 
     iD is good for…  
