@@ -99,3 +99,5 @@
   - NYU NSF COVID-19 RAPID PAUSE Public Spaces Challenge Page: 
  [MapRoulette Public Spaces Challenge](https://maproulette.org/browse/challenges/13090)
  
+ - NYU Qualtrics survey link for sign-up and settings:
+ 
