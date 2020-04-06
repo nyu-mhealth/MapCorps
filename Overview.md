@@ -92,5 +92,7 @@
 - NYU NSF COVID-19 RAPID PAUSE Project Page: 
  [MapRoulette Project](https://maproulette.org/browse/projects/40038)
  - NYU NSF COVID-19 RAPID PAUSE Healthcare Center Challenge Page: 
- [MapRoulette Project](https://maproulette.org/browse/challenges/13085)
+ [MapRoulette HCC Challenge](https://maproulette.org/browse/challenges/13085)
+  - NYU NSF COVID-19 RAPID PAUSE Public Spaces Challenge Page: 
+ [MapRoulette Public Spaces Challenge](https://maproulette.org/browse/challenges/13090)
  
