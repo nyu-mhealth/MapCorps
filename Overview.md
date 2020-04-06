@@ -14,6 +14,7 @@
 * * *
 #### [Humanitarian OpenStreetMap Team - HOT](https://hotosm.org/)  
 [HOT Tasking Manager Tutorial](https://drive.google.com/file/d/0B4F40fjDctLqbDhSRkJidWNtOEk/view?usp=sharing)
+     
      The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source and open data sharing 
      for humanitarian response and economic development.
 
