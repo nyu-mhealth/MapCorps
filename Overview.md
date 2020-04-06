@@ -38,7 +38,7 @@
 [DUSP / VIZ](http://duspviz.mit.edu/)
 - Training resources from Harvard: 
 [Harvard GIS](http://maps.cga.harvard.edu/qgis/)
-- OSM query engine
+- OSM query engine: 
 [overpass-turbo](https://overpass-turbo.eu/)
 
 * * *
