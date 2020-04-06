@@ -72,6 +72,9 @@
  [OpenMapKit](http://openmapkit.org/index.html)  
  >OpenMapKit (OMK) is an extension of OpenDataKit allowing users to create professional quality mobile data collection surveys for field data collection. 
 
+ [Field Papers](http://fieldpapers.org/)
+ >Excellent for written observations in low-resource settings.
+ 
 * * *
 ### [Mapillary](https://www.mapillary.com/map): Street-level Imagery Capture
  
