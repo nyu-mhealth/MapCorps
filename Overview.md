@@ -46,7 +46,7 @@
    - [YouTube: Mapping Pharmacies & Supermarkets in OSM Tutorial](https://www.youtube.com/watch?v=I9XSkpZrW5s)
  
 * * *
-### Pick your poison: You can choose either the iD or JSOM Editor  
+### Pick your poison: You can edit OSM with either the iD or JSOM Editor  
 [iD Editor](http://learnosm.org/en/beginner/id-editor/)  
 
     iD is good for…  
@@ -55,14 +55,14 @@
     - When you want to be sure to follow a consistent and simple tagging scheme
     - When you are restricted from installing a program on the computer you are using  
 
-[JSOM Editor](https://josm.openstreetmap.de/wiki/Introduction)  
+[JOSM Editor](https://josm.openstreetmap.de/wiki/Introduction)  
 
     JOSM is better…  
     - When you are adding many buildings (See buildings_tool plugin)
     - When you are editing many polygons or lines that already exist
     - When you are on an unreliable Internet connection or offline
     - When you are using a specific tagging scheme (or custom presets)
-[JSOM Workshop Slides](https://docs.google.com/presentation/d/1KPgQ1buFx2rS7HnvTa7OVZ-3WxBP6nsf7EcA9CUq70M/edit?usp=sharing)
+[JOSM Workshop Slides](https://docs.google.com/presentation/d/1KPgQ1buFx2rS7HnvTa7OVZ-3WxBP6nsf7EcA9CUq70M/edit?usp=sharing)
 
 * * *
 ## Data Collection
