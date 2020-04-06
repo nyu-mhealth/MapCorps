@@ -72,6 +72,11 @@
 ### Map editing:
 
  - Mapping Hospitals
- [Mapping Hospitals Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k)
+ [YouTube: Mapping Hospitals Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k)
  - Mapping Pharmacies & Supermarkets
- [Mapping Pharmacies & Supermarkets](https://www.youtube.com/watch?v=I9XSkpZrW5s)
+ [YouTube: Mapping Pharmacies & Supermarkets](https://www.youtube.com/watch?v=I9XSkpZrW5s)
+ 
+ - OSM Wiki
+ - OSM Wiki: Tag:amenity:hospital
+ https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dhospital
+ 
