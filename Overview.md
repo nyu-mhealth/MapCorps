@@ -67,7 +67,7 @@
  - Android app instructions
  [Mapillary for Android](https://help.mapillary.com/hc/en-us/articles/115001661965-Mapillary-for-Android)
 - NYUmHealth Mapillary Protocol
- [NYUmHealth Mapillary](https://docs.google.com/document/d/1kGIL91-BeTZuT1jHAUPJe1PFjcSpD_L2P2ZoTlPeonk/edit?usp=sharing)
+ [NYUmHealth Mapillary Google Doc](https://docs.google.com/document/d/1kGIL91-BeTZuT1jHAUPJe1PFjcSpD_L2P2ZoTlPeonk/edit?usp=sharing)
 
 ### Map editing:
 
