@@ -71,8 +71,9 @@
 
 ### Map editing:
 
- - OSM Wiki
- - [OSM Wiki: Tag:amenity:hospital](https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dhospital)
+ - [OSM Wiki](https://wiki.openstreetmap.org/wiki/Beginners%27_guide): Beginner's Guide
+ - [OSM Wiki](https://wiki.openstreetmap.org/wiki/Map_Features): Map Features Reference
+ - [OSM Wiki](https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dhospital): Tag:amenity:hospital (and other healthcare tags)
  
  - [YouTube: Mapping Hospitals in OSM Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k)
  - [YouTube: Mapping Pharmacies & Supermarkets in OSM Tutorial](https://www.youtube.com/watch?v=I9XSkpZrW5s)
