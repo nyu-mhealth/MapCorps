@@ -12,6 +12,7 @@
 >#### [MapRoulette Tasking Manager](https://www.maproulette.org/)
 
 * * *
+[HOT Tasking Manager Tutorial](https://drive.google.com/file/d/0B4F40fjDctLqbDhSRkJidWNtOEk/view?usp=sharing)
 #### [Humanitarian OpenStreetMap Team - HOT](https://hotosm.org/)  
      The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source and open data sharing 
      for humanitarian response and economic development.
@@ -83,6 +84,8 @@
 - [YouTube: Scalable Image Collection](https://www.youtube.com/watch?v=TC8-Baa5zW4)
 
 ### Imagery Capture with regular Mapillary App:
+ - Mapillary Tutorial:
+ [How to Capture Street Photos with Mapillary](https://drive.google.com/file/d/0B4F40fjDctLqU1k3QnV1OGVKSmM/view?usp=sharing)
  - iPhone app instructions: 
  [Mapillary for IOS](https://help.mapillary.com/hc/en-us/articles/115001636009-Mapillary-for-iOS)
  - Android app instructions:
