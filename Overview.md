@@ -11,16 +11,17 @@
 >#### [Missing Maps Tasking Manager](https://www.missingmaps.org/)
 >#### [MapRoulette Tasking Manager](https://www.maproulette.org/)
 
-### [Humanitarian OpenStreetMap Team - HOT](https://hotosm.org/)  
+* * *
+#### [Humanitarian OpenStreetMap Team - HOT](https://hotosm.org/)  
      The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source and open data sharing 
      for humanitarian response and economic development.
 
-### [Youthmappers](http://www.youthmappers.org/)
+#### [Youthmappers](http://www.youthmappers.org/)
 * [NYUYouthmappers](https://www.facebook.com/groups/nyuyouthmappers/): NYU Youthmappers Facebook Group
 * Twitter: @youthmappersnyu
 
 * * *
-### [Spatial Thoughts](https://spatialthoughts.com/resources/) and other GIS resources
+#### [Spatial Thoughts](https://spatialthoughts.com/resources/) and other GIS resources
 - Training resource from the American Geographical Society: 
 [Earn Geobadges!](http://geobadges.org/#!/enterprise)
 - Training resources from MIT:
