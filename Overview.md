@@ -89,4 +89,8 @@
  [Mapillary for Android](https://help.mapillary.com/hc/en-us/articles/115001661965-Mapillary-for-Android)
 - NYUmHealth Mapillary Protocol
  [NYUmHealth Mapillary Google Doc](https://docs.google.com/document/d/1kGIL91-BeTZuT1jHAUPJe1PFjcSpD_L2P2ZoTlPeonk/edit?usp=sharing)
-
+- NYU NSF COVID-19 RAPID PAUSE Project Page
+ [MapRoulette Project](https://maproulette.org/browse/projects/40038)
+ - NYU NSF COVID-19 RAPID PAUSE Healthcare Center Challenge Page
+ [MapRoulette Project](https://maproulette.org/browse/challenges/13085)
+ 
