@@ -1,18 +1,6 @@
 # OpenStreetMap Resources
 
-### OpenStreetMap editing:
-
-   - OSM Beginner's Guide: 
-    [OSM Wiki](https://wiki.openstreetmap.org/wiki/Beginners%27_guide)
-   - OSM Key Definitions for Annotating Maps with Tags: 
-    [OSM Wiki: Features and POI](https://wiki.openstreetmap.org/wiki/Map_Features)
-   - OSM Tags for Healthcare Centers  
-    [OSM Wiki: Tag:amenity:hospital (and others)](https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dhospital) 
- 
-   - [YouTube: Mapping Hospitals in OSM Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k)
-   - [YouTube: Mapping Pharmacies & Supermarkets in OSM Tutorial](https://www.youtube.com/watch?v=I9XSkpZrW5s)
- 
- ### [Learn OSM](http://learnosm.org/en/)
+### [Learn OSM](http://learnosm.org/en/)
 [OSM Tasking Manager Overview](http://learnosm.org/en/coordination/tasking-manager/) 
 
 ### [Teach OSM](http://teachosm.org/en/)
@@ -45,16 +33,29 @@
 [overpass-turbo](https://overpass-turbo.eu/)
 
 * * *
-## Editing OSM  
+## OpenStreetMap editing:
+
+   - OSM Beginner's Guide: 
+    [OSM Wiki](https://wiki.openstreetmap.org/wiki/Beginners%27_guide)
+   - OSM Key Definitions for Annotating Maps with Tags: 
+    [OSM Wiki: Features and POI](https://wiki.openstreetmap.org/wiki/Map_Features)
+   - OSM Tags for Healthcare Centers:  
+    [OSM Wiki: Tag:amenity:hospital (and others)](https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dhospital) 
+ 
+   - [YouTube: Mapping Hospitals in OSM Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k)
+   - [YouTube: Mapping Pharmacies & Supermarkets in OSM Tutorial](https://www.youtube.com/watch?v=I9XSkpZrW5s)
+   
+## You can use either the iD or JSOM Editor  
 [iD Editor](http://learnosm.org/en/beginner/id-editor/)  
-[JOSM Editor](https://josm.openstreetmap.de/wiki/Introduction)  
-[JOSM Workshop Slides](https://docs.google.com/presentation/d/1KPgQ1buFx2rS7HnvTa7OVZ-3WxBP6nsf7EcA9CUq70M/edit?usp=sharing)
 
     iD is good for…  
     - When you are doing simple edits
     - When you have fast Internet to load the imagery and save the edits
     - When you want to be sure to follow a consistent and simple tagging scheme
     - When you are restricted from installing a program on the computer you are using  
+
+[JSOM Editor](https://josm.openstreetmap.de/wiki/Introduction)  
+[JSOM Workshop Slides](https://docs.google.com/presentation/d/1KPgQ1buFx2rS7HnvTa7OVZ-3WxBP6nsf7EcA9CUq70M/edit?usp=sharing)
 
     JOSM is better…  
     - When you are adding many buildings (See buildings_tool plugin)
