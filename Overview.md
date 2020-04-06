@@ -58,8 +58,8 @@
 * * *
 ### [Mapillary](https://www.mapillary.com/map): Street-level Imagery Capture
  
-### [YouTube: Intro](https://www.youtube.com/watch?v=sk6ubBz4p1Q)
-### [YouTube: Scalable Image Collection](https://www.youtube.com/watch?v=TC8-Baa5zW4)
+- [YouTube: Intro](https://www.youtube.com/watch?v=sk6ubBz4p1Q)
+- [YouTube: Scalable Image Collection](https://www.youtube.com/watch?v=TC8-Baa5zW4)
 
 ### Imagery Capture with regular Mapillary App:
  - iPhone app instructions
@@ -71,12 +71,14 @@
 
 ### Map editing:
 
- - Mapping Hospitals
- [YouTube: Mapping Hospitals Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k)
- - Mapping Pharmacies & Supermarkets
- [YouTube: Mapping Pharmacies & Supermarkets](https://www.youtube.com/watch?v=I9XSkpZrW5s)
- 
  - OSM Wiki
  - OSM Wiki: Tag:amenity:hospital
  https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dhospital
+ 
+ - YouTube: Mapping Hospitals
+ [Mapping Hospitals Tutorial](https://www.youtube.com/watch?v=FS1LUGv5z5k)
+ - YouTube: Mapping Pharmacies & Supermarkets
+ [Mapping Pharmacies & Supermarkets Tutorial](https://www.youtube.com/watch?v=I9XSkpZrW5s)
+ 
+
  
