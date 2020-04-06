@@ -7,9 +7,9 @@
     - Used for assigning tasks to participants
     - Conducting training for participants
     - Grading, validation, and assessing quality
-> [Teach OSM Tasking Manager](https://tasks.teachosm.org/)
-> [Missing Maps Tasking Manager](https://www.missingmaps.org/)
->##### [MapRoulette Tasking Manager](https://www.maproulette.org/)
+>#### [Teach OSM Tasking Manager](https://tasks.teachosm.org/)
+>#### [Missing Maps Tasking Manager](https://www.missingmaps.org/)
+>#### [MapRoulette Tasking Manager](https://www.maproulette.org/)
 
 ### [Humanitarian OpenStreetMap Team - HOT](https://hotosm.org/)  
      The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source and open data sharing 
