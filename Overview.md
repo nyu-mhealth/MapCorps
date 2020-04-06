@@ -31,6 +31,7 @@
 * [NYUYouthmappers](https://www.facebook.com/groups/nyuyouthmappers/): NYU Youthmappers Facebook Group
 * Twitter: @youthmappersnyu
 
+### [Spatial Thoughts](https://spatialthoughts.com/resources/) and other GIS resources
 - Training resource from the American Geographical Society
 [Geobadges](http://geobadges.org/#!/enterprise)
 - Training resources from MIT
@@ -39,7 +40,6 @@
 [Harvard GIS](http://maps.cga.harvard.edu/qgis/)
 - OSM query engine
 [overpass-turbo](https://overpass-turbo.eu/)
-### [Spatial Thoughts](https://spatialthoughts.com/resources/)
 
 * * *
 ## Editing OSM  
