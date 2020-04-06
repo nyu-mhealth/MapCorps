@@ -3,18 +3,17 @@
 ### [Learn OSM](http://learnosm.org/en/)
 [OSM Tasking Manager Overview](http://learnosm.org/en/coordination/tasking-manager/) 
 ### [Teach OSM Tasking Manager](https://tasks.teachosm.org/)
+### [Missing Maps Tasking Manager](https://www.missingmaps.org/)
 ### [MapRoulette Tasking Manager](https://www.maproulette.org/)
 
-    - Choosing where to map and what to map
-    - Assigning tasks to participants
+    - Tasking managers help organizations decide where to map and what to map
+    - Used for assigning tasks to participants
     - Conducting training for participants
-    - Mapping in the field with Field Papers
     - Grading, validation, and assessing quality
 
 ### [Humanitarian OpenStreetMap Team - HOT](https://hotosm.org/)  
      The Humanitarian OpenStreetMap Team (HOT) applies the principles of open source and open data sharing 
      for humanitarian response and economic development.
-### [Missing Maps](https://www.missingmaps.org/)
 
 ### [Youthmappers](http://www.youthmappers.org/)
 * [NYUYouthmappers](https://www.facebook.com/groups/nyuyouthmappers/): NYU Youthmappers Facebook Group
