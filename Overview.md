@@ -2,9 +2,9 @@
 
 ### [Learn OSM](http://learnosm.org/en/)
 [OSM Tasking Manager Overview](http://learnosm.org/en/coordination/tasking-manager/) 
->>### [Teach OSM Tasking Manager](https://tasks.teachosm.org/)
->>### [Missing Maps Tasking Manager](https://www.missingmaps.org/)
->>### [MapRoulette Tasking Manager](https://www.maproulette.org/)
+>>>>### [Teach OSM Tasking Manager](https://tasks.teachosm.org/)
+>>>>### [Missing Maps Tasking Manager](https://www.missingmaps.org/)
+>>>>### [MapRoulette Tasking Manager](https://www.maproulette.org/)
 
     - Tasking managers help organizations decide where to map and what to map
     - Used for assigning tasks to participants
