@@ -102,5 +102,7 @@
   - NYU NSF COVID-19 RAPID PAUSE Public Spaces Challenge Page: 
  [MapRoulette Public Spaces Challenge](https://maproulette.org/browse/challenges/13090)
  
- - NYU Qualtrics survey link for sign-up and settings:
+ - NYUmHealth Mapillary Team Testing Survey:
+ [NYU Qualtrics Survey Link](https://nyu.qualtrics.com/jfe/form/SV_5cE1sgPF9FkTz0N) 
+
  
