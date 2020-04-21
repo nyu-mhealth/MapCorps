@@ -104,6 +104,8 @@
  [MapRoulette Public Spaces Challenge](https://maproulette.org/browse/challenges/13090)
  
  - NYUmHealth Mapillary Team Testing Survey:
- [NYU Qualtrics Survey Link](https://nyu.qualtrics.com/jfe/form/SV_5cE1sgPF9FkTz0N) 
+ [NYU Qualtrics Survey Link](https://nyu.qualtrics.com/jfe/form/SV_5cE1sgPF9FkTz0N)
+  - NYUmHealth RAPID PAUSE Mapillary Enrollment:
+ [NYU Qualtrics Survey Link](https://nyu.qualtrics.com/jfe/form/SV_0PAK55xaalUd7QV)
 
  
