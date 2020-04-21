@@ -94,8 +94,13 @@
  [Mapillary for Android](https://help.mapillary.com/hc/en-us/articles/115001661965-Mapillary-for-Android)
 
 ### [NYUmHealth Mapillary Image Capture Project](https://www.mapillary.com/dashboard/org/nyumhealth/profile)
-- NYUmHealth Mapillary Protocol: 
+ - NYUmHealth RAPID PAUSE Mapillary Enrollment:
+ [NYU Qualtrics Survey Link](https://nyu.qualtrics.com/jfe/form/SV_0PAK55xaalUd7QV)
+ - NYUmHealth Mapillary Protocol: 
  [NYUmHealth Mapillary Google Doc](https://docs.google.com/document/d/1kGIL91-BeTZuT1jHAUPJe1PFjcSpD_L2P2ZoTlPeonk/edit?usp=sharing)
+  - NYUmHealth Mapillary Team Testing Survey:
+ [NYU Qualtrics Survey Link](https://nyu.qualtrics.com/jfe/form/SV_5cE1sgPF9FkTz0N)
+ 
 - NYU NSF COVID-19 RAPID PAUSE Project Page: 
  [MapRoulette Project](https://maproulette.org/browse/projects/40038)
  - NYU NSF COVID-19 RAPID PAUSE Healthcare Center Challenge Page: 
@@ -103,9 +108,7 @@
   - NYU NSF COVID-19 RAPID PAUSE Public Spaces Challenge Page: 
  [MapRoulette Public Spaces Challenge](https://maproulette.org/browse/challenges/13090)
  
- - NYUmHealth Mapillary Team Testing Survey:
- [NYU Qualtrics Survey Link](https://nyu.qualtrics.com/jfe/form/SV_5cE1sgPF9FkTz0N)
-  - NYUmHealth RAPID PAUSE Mapillary Enrollment:
- [NYU Qualtrics Survey Link](https://nyu.qualtrics.com/jfe/form/SV_0PAK55xaalUd7QV)
+
+
 
  
