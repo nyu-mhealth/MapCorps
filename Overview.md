@@ -81,8 +81,9 @@
 * * *
 ### [Mapillary](https://www.mapillary.com/map): Street-level Imagery Capture
  
-- [YouTube: Intro](https://www.youtube.com/watch?v=sk6ubBz4p1Q)
-- [YouTube: Scalable Image Collection](https://www.youtube.com/watch?v=TC8-Baa5zW4)
+- [Mapillary Intro (YouTube)](https://www.youtube.com/watch?v=sk6ubBz4p1Q)
+- [Scalable Image Collection (YouTube)](https://www.youtube.com/watch?v=TC8-Baa5zW4)
+- [Mapillary and OSM (YouTube)](https://blog.mapillary.com/update/2019/05/23/map-features-in-openstreetmap.html)
 
 ### Imagery Capture with regular Mapillary App:
  - Mapillary Tutorial:
