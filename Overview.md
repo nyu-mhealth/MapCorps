@@ -93,7 +93,9 @@
  - Android app instructions:
  [Mapillary for Android](https://help.mapillary.com/hc/en-us/articles/115001661965-Mapillary-for-Android)
 
-### [NYUmHealth Mapillary Image Capture Project](https://www.mapillary.com/dashboard/org/nyumhealth/profile)
+### [NYUmHealth Mapillary Image Capture Project](https://www.mapillary.com/app/org/rapid_pause)
+ - NYUmHealth RAPID PAUSE Capture Project Home:
+ [Mapillary Project Page](https://www.mapillary.com/app/org/rapid_pause)
  - NYUmHealth RAPID PAUSE Mapillary Enrollment:
  [NYU Qualtrics Survey Link](https://nyu.qualtrics.com/jfe/form/SV_0PAK55xaalUd7QV)
  - NYUmHealth Mapillary Protocol: 
