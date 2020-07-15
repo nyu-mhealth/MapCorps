@@ -97,7 +97,7 @@
  - NYUmHealth RAPID PAUSE Capture Project Home:
  [RAPID PAUSE Project Page (Mapillary)](https://www.mapillary.com/app/org/rapid_pause)
  - NYUmHealth RAPID PAUSE Mapillary Enrollment:
- [NYU Qualtrics Survey Link](https://nyu.qualtrics.com/jfe/form/SV_0PAK55xaalUd7QV)
+ [NYU Qualtrics Survey Link](https://nyu.qualtrics.com/jfe/form/SV_3mF2UkmOXHtXnhz)
  - NYUmHealth Mapillary Fieldwork Protocol: 
  [NYUmHealth Mapillary Google Doc](https://docs.google.com/document/d/1kGIL91-BeTZuT1jHAUPJe1PFjcSpD_L2P2ZoTlPeonk/edit?usp=sharing)
   - NYUmHealth Mapillary Team Testing Survey:
